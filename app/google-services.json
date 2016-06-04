@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638387052465",
+    "project_id": "alertacdmx-1306"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638387052465:android:78dca6693319c72c",
+        "android_client_info": {
+          "package_name": "upiicsa.com.alertacdmx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638387052465-vgpnsd78em1pru65kvv3ivn7hidic3ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "upiicsa.com.alertacdmx",
+            "certificate_hash": "93AC96E809E44A6C06C3A615E4213ABCA8170500"
+          }
+        },
+        {
+          "client_id": "638387052465-5qm9v4i7g2co01bfsvqf8668frt73kea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYLSpf19faxTPfJVkwNwXzZcerZvriDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

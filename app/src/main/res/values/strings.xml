@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlertaCDMX</string>
+    <string name="signed_in_fmt">Iniciado como : %s</string>
+    <string name="loading">Loading…</string>
+    <string name="titulo_alerta">Alerta</string>
+    <string name="titulo_cdmx">CDMX</string>
+    <string name="btn_log_out">Salir</string>
+    <string name="title_activity_mapa__reportes">Map</string>
+    <string name="tituloMenuBar">Alerta CDMX</string>
+    <string name="title_activity_main_publicacion">MainPublicacion</string>
+</resources>
